@@ -1,6 +1,7 @@
 # CodingHelp
 Your one stop shop for all programming help! Resources will be linked, feel free to suggest resources or ask questions!
 
+<!-- Nested Tabs -->
 <details>
     <summary>Coding Websites</summary>
     <details>
@@ -20,11 +21,19 @@ Your one stop shop for all programming help! Resources will be linked, feel free
         <p>###</p>
     </details>
 
+<!-- Seperate Tabs -->    
+<details>
+    <summary>YouTube Channels</summary>
+    <p>###</p>
+    <details>
+
 </details>
 
 <details>
     <summary>YouTube Channels</summary>
     <p>###</p>
+</details>
+
 </details>
 
 </body>
