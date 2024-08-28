@@ -15,16 +15,17 @@ Your one stop shop for all programming help! Resources will be linked, feel free
         <summary>Documentation</summary>
         <p>###</p>
     </details>
-    <details>
-        <summary>Text Editors</summary>
-        <p>###</p>
-    </details>
 
 </details>
 
 <!-- YouTube Channels section is now outside the Coding Websites tab -->
 <details>
     <summary>YouTube Channels</summary>
+    <p>###</p>
+</details>
+
+<details>
+    <summary>Text Editors</summary>
     <p>###</p>
 </details>
 
