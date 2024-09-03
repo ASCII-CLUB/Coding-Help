@@ -5,15 +5,19 @@ Your one stop shop for all programming help! Resources will be linked, feel free
     <summary>Coding Websites</summary>
     <details>
         <summary>Coding Platforms</summary>
-    </details>
-    <details>
-        <summary>Algorithm Platforms</summary>
-        <p><a href="https://www.codecademy.com/" target="_blank">Codecademy</a></p>
+                <p><a href="https://www.codecademy.com/" target="_blank">Codecademy</a></p>
             <p><a href="https://www.freecodecamp.org/"         
      target="_blank">freeCodeCamp</a></p>
     </details>
     <details>
+        <summary>Algorithm Platforms</summary>
+        <p><a href="https://leetcode.com/" target="_blank">LeetCode</a></p>
+            <p><a href="https://www.hackerrank.com/" target="_blank">HackerRank</a></p>
+    </details>
+    <details>
         <summary>Documentation</summary>
+        <p><a href="https://devdocs.io/" target="_blank">DevDocs</a></p>
+            <p><a href="https://developer.mozilla.org/en-US/" target="_blank">MDN Web Docs</a></p>
     </details>
 
 </details>
