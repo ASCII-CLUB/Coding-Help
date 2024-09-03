@@ -57,8 +57,7 @@ Your one stop shop for all programming help! Resources will be linked, feel free
 <p><a href="https://www.youtube.com/c/Coreyms" target="_blank">Corey Schafer</a></p>
 <p><a href="https://www.youtube.com/c/GeeksforGeeks" target="_blank">GeeksforGeeks</a></p>
 <p><a href="https://www.youtube.com/c/SimpleProgrammer" target="_blank">Simple Programmer</a></p>
-<p><a href="(https://www.youtube.com/@BroCodez)" target="_blank">Bro Code</a></p>
-
+<p><a href="https://www.youtube.com/c/BroCodez" target="_blank">Bro Code</a></p>
     </details>
 
 </details>
